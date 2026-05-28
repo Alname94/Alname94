@@ -38,7 +38,7 @@ Aplicación interactiva de metrónomo enfocada en la precisión y la experiencia
 
 ---
 
-### 📬 Contacto
+## 📬 Contacto
 
 - **LinkedIn:** [linkedin.com/in/alejo-na-mendez](https://linkedin.com/in/alejo-na-mendez)
 - **Correo:** [alname94@gmail.com](mailto:alname94@gmail.com)
