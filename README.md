@@ -20,14 +20,18 @@ Full Stack Developer en formación, estudiando y desarrollando apliaciones basá
 
 ---
 
-### 📁 Proyectos Destacados
+## 📁 Proyectos Destacados
 
-#### 🚲 [Sistema de Gestión para Taller de Bicicletas](https://github.com/Alname94/taller_bicicletas)
+### 🚲 [Sistema de Gestión para Taller de Bicicletas](https://github.com/Alname94/taller_bicicletas)
+
 API REST robusta desarrollada con **Spring Boot** para la gestión de un taller. 
 - **Características:** Implementación de lógica compleja para control de stock de repuestos, cálculo automatizado de presupuestos y persistencia de datos.
 - **Seguridad y Doc:** Configurado con **Spring Security** para autenticación y **OpenAPI/Swagger** para la documentación de los endpoints.
 
-#### ⏱️ [Metrónomo Web con Soporte Multiidioma](https://github.com/Alname94/metronome)
+![Demo del Sistema](https://github.com/Alname94/taller_bicicletas/blob/main/tallerbicicletas/docs/demo.gif)
+
+##
+### ⏱️ [Metrónomo Web](https://github.com/Alname94/metronome)
 Aplicación interactiva de metrónomo enfocada en la precisión y la experiencia de usuario.
 - **Características:** Panel de configuración con persistencia en `localStorage` y un sistema de traducción dinámico basado en archivos JSON para soporte multiidioma.
 - **Diseño:** Interfaz moderna y minimalista utilizando estilos avanzados de CSS.
