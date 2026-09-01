@@ -1,11 +1,13 @@
 # 👋 Hola, soy Alejo
-Full Stack Developer en formación, estudiando y desarrollando apliaciones basándome en prácticas profesionales. 
+Software Developer en formación, estudiando y desarrollando aplicaciones basándome en prácticas profesionales. 
 
 ### 🚀 Sobre mí
+Desarrollador de Software orientado a Backend, con experiencia en el diseño de arquitecturas escalables,
+construcción de APIs RESTful y gestión de bases de datos (**MySQL**, **MongoDB**). Especializado en el
+ecosistema **Java (Spring Boot, Hibernate/JPA)** y **Node.js**, con conocimiento complementario en desarrollo
+Frontend (**React, HTML, CSS**) que me permite comprender todo el ciclo de vida de la aplicación y colaborar
+correctamente en la integración cliente-servidor.
 
-- 💻 Actualmente enfocado en el desarrollo de aplicaciones web utilizando **Java** y **JavaScript**.
-- 📑 Realizando distintos cursos de **Node.js**, **JavaScript**, **React**.
-- 📊 También tengo formación en **QA Testing Manual**, lo que me da una perspectiva para asegurar la calidad del software.
 
 ---
 
