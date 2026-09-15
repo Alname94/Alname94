@@ -33,10 +33,10 @@ API REST robusta desarrollada con **Spring Boot** para la gestión de un taller.
 ![Demo del Sistema](https://github.com/Alname94/taller_bicicletas/blob/main/tallerbicicletas/docs/demo.gif)
 
 ##
-### ⏱️ [Metrónomo Web](https://github.com/Alname94/metronome)
-Aplicación interactiva de metrónomo enfocada en la precisión y la experiencia de usuario.
-- **Características:** Panel de configuración con persistencia en `localStorage` y un sistema de traducción dinámico basado en archivos JSON para soporte multiidioma.
-- **Diseño:** Interfaz moderna y minimalista utilizando estilos avanzados de CSS.
+### 🏡 [Control de servicios y facturas](https://github.com/Alname94/bill-control)
+API RESTful para la administración de servicios del hogar y control de vencimiento/pago de facturas.
+- **Seguridad:** Autenticación y Seguridad: JWT (JSON Web Tokens) con hashing de contraseñas mediante bcrypt y protección IDOR.
+- **Validación de datos:** Esquemas mediante Zod para controlar entradas en peticiones HTTP.
 
 ---
 
