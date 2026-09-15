@@ -15,7 +15,7 @@ correctamente en la integración cliente-servidor.
 
 | Capa | Tecnologías |
 | :--- | :--- |
-| **Backend** | Java, Spring Boot, Spring Security, Hibernate/JPA |
+| **Backend** | Java, Node.js, Spring Boot, Spring Security, Hibernate/JPA |
 | **Frontend** | JavaScript (ES6+), HTML5, CSS3, Tailwind CSS (v4) |
 | **Bases de Datos** | PostgreSQL, MySQL, MongoDB |
 | **Herramientas & QA** | Git, GitHub, Postman, OpenAPI/Swagger, QA Manual Testing |
