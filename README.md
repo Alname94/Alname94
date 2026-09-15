@@ -24,6 +24,13 @@ correctamente en la integración cliente-servidor.
 
 ## 📁 Proyectos Destacados
 
+### 🏡 [Control de servicios y facturas](https://github.com/Alname94/bill-control)
+API RESTful para la administración de servicios del hogar y control de vencimiento/pago de facturas.
+- **Seguridad:** Autenticación y Seguridad: JWT (JSON Web Tokens) con hashing de contraseñas mediante bcrypt y protección IDOR.
+- **Validación de datos:** Esquemas mediante Zod para controlar entradas en peticiones HTTP.
+
+##
+
 ### 🚲 [Sistema de Gestión para Taller de Bicicletas](https://github.com/Alname94/taller_bicicletas)
 
 API REST robusta desarrollada con **Spring Boot** para la gestión de un taller. 
@@ -31,12 +38,6 @@ API REST robusta desarrollada con **Spring Boot** para la gestión de un taller.
 - **Seguridad y Doc:** Configurado con **Spring Security** para autenticación y **OpenAPI/Swagger** para la documentación de los endpoints.
 
 ![Demo del Sistema](https://github.com/Alname94/taller_bicicletas/blob/main/tallerbicicletas/docs/demo.gif)
-
-##
-### 🏡 [Control de servicios y facturas](https://github.com/Alname94/bill-control)
-API RESTful para la administración de servicios del hogar y control de vencimiento/pago de facturas.
-- **Seguridad:** Autenticación y Seguridad: JWT (JSON Web Tokens) con hashing de contraseñas mediante bcrypt y protección IDOR.
-- **Validación de datos:** Esquemas mediante Zod para controlar entradas en peticiones HTTP.
 
 ---
 
