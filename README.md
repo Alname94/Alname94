@@ -25,9 +25,11 @@ correctamente en la integración cliente-servidor.
 ## 📁 Proyectos Destacados
 
 ### 🏡 [Control de servicios y facturas](https://github.com/Alname94/bill-control)
-App Full-Stack desarrollada para la administración integral de servicios del hogar y el control de vencimientos y pagos de facturas.
+App Full-Stack desarrollada con Node.js y React.js para la administración integral de servicios del hogar y el control de vencimientos y pagos de facturas.
 - **Seguridad:** Autenticación y Seguridad: JWT (JSON Web Tokens) con hashing de contraseñas mediante bcrypt y protección IDOR.
 - **Validación de datos:** Esquemas mediante Zod para controlar entradas en peticiones HTTP.
+
+![Demo](https://github.com/Alname94/bill-control/blob/main/backend/docs/bill-control-demo.gif)
 
 ##
 
